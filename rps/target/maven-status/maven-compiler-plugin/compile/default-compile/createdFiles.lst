@@ -1,0 +1,6 @@
+Model\Scissors.class
+Service\RPSService.class
+com\Estudio\rps\RpsApplication.class
+Controller\RPSController.class
+Model\Paper.class
+Model\Rock.class
